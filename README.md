@@ -5,6 +5,9 @@ Project to detect malicious DNS packets
 モデル：
 UCI ML HackathonにてOutstanding submissions賞を受賞
 
+プレゼンテーション資料
+https://github.com/Yu821/malicious_dns/blob/master/presentation.pdf
+
 Hackathon URL <br>
 https://uci-ml-repo.github.io/events/hackathon20/
 
